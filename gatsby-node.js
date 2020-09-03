@@ -39,9 +39,7 @@ exports.createPages = ({ graphql, actions }) => {
               image
             }
             timeToRead
-            wordCount {
-              words
-            }
+
             fields {
               slug
             }
