@@ -44,6 +44,14 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-emojis",
+            options: {
+              class: "emoji-icon",
+              size: 64,
+            },
+          },
+
+          {
             resolve: "gatsby-remark-relative-images",
             options: {
               name: "uploads",
