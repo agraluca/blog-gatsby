@@ -8,7 +8,7 @@ module.exports = {
     position: `Fullstack developer`,
     description: `Um blog sobre desenvolvimento front-end`,
     author: `@LucaAgra`,
-    siteUrl: `https://lucaagra.com.br`,
+    siteUrl: `https://lucaagra.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
@@ -92,5 +92,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }
