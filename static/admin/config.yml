@@ -2,6 +2,7 @@ backend:
   name: github
   repo: agraluca/blog-gatsby
   branch: master
+  site_domain: lucaagra.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
