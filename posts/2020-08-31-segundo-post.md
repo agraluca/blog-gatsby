@@ -4,6 +4,7 @@ title: Segundo Post
 description: Esse é o segundo post
 category: Geral
 background: "#7AAB13"
+image: ""
 ---
 
 # Lorem ipsum

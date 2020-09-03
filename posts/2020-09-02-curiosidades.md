@@ -3,6 +3,7 @@ date: 2020-09-02 11:00:00
 title: Curiosidades
 description: Curiosidades da programação
 category: Geral
+image: ""
 ---
 
 # Lorem ipsum

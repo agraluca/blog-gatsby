@@ -3,6 +3,7 @@ date: 2020-09-01 10:00:00
 title: Olá mundão
 description: Mundo
 category: Geral
+image: ""
 ---
 
 # Lorem ipsum
