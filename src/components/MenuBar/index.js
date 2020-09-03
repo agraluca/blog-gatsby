@@ -23,7 +23,9 @@ function MenuBar() {
     window.__onThemeChange = () => setTheme(window.__theme)
     window.__onDisplayChange = () => setDisplay(window.__display)
   }, [])
-
+  function handleGoTop() {
+    window.scroll({ top: 0, behavior: "smooth" })
+  }
   return (
     <S.MenuBarWrapper>
       <S.MenuBarGroup>
@@ -73,7 +75,7 @@ function MenuBar() {
         >
           <Light />
         </S.MenuBarItem>
-        <S.MenuBarItem title="Ir para o topo">
+        <S.MenuBarItem title="Ir para o topo" onClick={handleGoTop}>
           <Arrow />
         </S.MenuBarItem>
       </S.MenuBarGroup>
