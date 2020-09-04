@@ -7,7 +7,7 @@ background: "#779884"
 ---
 # Olá pessoal!
 
-![](assets/img/mountains.jpg)
+![](../assets/img/mountains.jpg)
 
 Bom, logo de cara gostaria de deixar claro que sou péssimo escrevendo! Esse blog é dua uma tentativa de falar sobre coisas que eu gosto! 
 
@@ -33,4 +33,3 @@ Iremos decidir:
 Aqui vocês irão ver assuntos relacionados a tecnologia e qualquer outra coisa que eu achar interessante e queira compartilhar! 
 
 Enfim, por hoje é isso! Forte abraço, pessoal!
-
