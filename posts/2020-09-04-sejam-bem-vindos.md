@@ -1,7 +1,7 @@
 ---
 title: "Sejam bem-vindos! "
 date: 2020-09-04 11:28:33
-thumbnail: assets/img/e2ff0163-133e-43d0-a0b0-8202d19945df.jpeg
+image: assets/img/e2ff0163-133e-43d0-a0b0-8202d19945df.jpeg
 category: Geral
 background: "#5A0001"
 ---
