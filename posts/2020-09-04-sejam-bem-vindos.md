@@ -9,7 +9,7 @@ background: "#5A0001"
 
 
 
-![Bem-vindos, por favor entrem!](assets/img/e2ff0163-133e-43d0-a0b0-8202d19945df.jpeg)
+![Bem-vindos! Por favor, entrem](assets/img/15f57c92-7bf0-470a-b7fd-e55618cdd6ba.jpeg)
 
 Bom, logo de cara gostaria de deixar claro que sou péssimo escrevendo! Esse blog é dua uma tentativa de falar sobre coisas que eu gosto! 
 
