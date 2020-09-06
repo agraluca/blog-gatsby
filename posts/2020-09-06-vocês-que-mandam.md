@@ -7,11 +7,11 @@ background: "#F76C5E"
 ---
 # Que os jogos comecem!
 
-![](../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg)
+![Duas setas no chão representando uma escolha de qual caminho fazer](../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg)
 
 > Enquanto estou na fazenda tive essa ideia de fazer essa enquete onde vocês irão decidir a próxima série de posts! 
 
-![](../assets/img/b0164a3e-a9f4-4808-8130-3b519c478c0c.jpeg)
+![Imagem do por do sol na fazenda](../assets/img/b0164a3e-a9f4-4808-8130-3b519c478c0c.jpeg)
 
 ## A ideia...
 
@@ -39,12 +39,4 @@ Por fim, aqui esta o link da votação: https://www.strawpoll.me/20897574
 ## É isso pessoal...
 
 Espero que tenham gostado da ideia 
-Forte abraço galera! 
-
-
-
-
-
-
-
-
+Forte abraço galera!
