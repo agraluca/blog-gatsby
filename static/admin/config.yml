@@ -6,7 +6,7 @@ backend:
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
-public_folder: "assets/img"
+public_folder: "../assets/img"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -22,7 +22,7 @@ collections:
           widget: "datetime",
           format: "YYYY-MM-DD hh:mm:ss",
         }
-      - { label: "Imagem", name: "thumbnail", widget: "image" }
+      - { label: "Imagem", name: "image", widget: "image" }
 
       - { label: "Categoria", name: "category", widget: "string" }
       - { label: "Cor de fundo (hex)", name: "background", widget: "string" }
