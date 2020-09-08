@@ -44,14 +44,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-emojis",
-            options: {
-              class: "emoji-icon",
-              size: 64,
-            },
-          },
-
-          {
             resolve: "gatsby-remark-relative-images",
             options: {
               name: "uploads",
@@ -64,6 +56,29 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+
+          {
+            resolve: "gatsby-remark-emojis",
+            options: {
+              active: true,
+
+              class: "emoji-icon",
+
+              escapeCharacter: "",
+
+              size: 64,
+
+              styles: {
+                display: "inline",
+                margin: "0",
+                "margin-top": "1px",
+                position: "relative",
+                top: "5px",
+                width: "25px",
+              },
+            },
+          },
+
           `gatsby-remark-lazy-load`,
           //PrismJS tem que ir no final
           `gatsby-remark-prismjs`,
