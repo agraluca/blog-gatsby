@@ -10,7 +10,7 @@ background: "#E2C044"
 
 ![Parede com uma arte de um lápis escrito "Amo aprender"](../assets/img/love2learn.jpg)
 
-Bom a verdade é que estou sem ideias para construir o inicio da nossa aplicação, sendo mais sincero ainda estou escrevendo sem saber qual será a aplicação. Mas, estou dando os primeiros passos - já criei um PowerPoint da primeira aula - e irei explicar a base primeiro.
+Bom a verdade é que estou sem ideias para construir o início da nossa aplicação, sendo mais sincero ainda estou escrevendo sem saber qual será a aplicação. Mas, estou dando os primeiros passos - já criei o PowerPoint da primeira aula - e irei explicar a base primeiro.
 
 > Para começar irei passar o arquivo PowerPoint do primeiro modulo. Nele eu falo a respeito de conceitos básicos de HTML, algumas de suas tags e suas propriedades.
 
@@ -18,7 +18,7 @@ Bom a verdade é que estou sem ideias para construir o inicio da nossa aplicaç�
 
 ## Como irão notar...
 
-No apresentação podemos notar que no ultimo slide fiquei de colocar o código aqui:
+No apresentação podemos notar que no último slide fiquei de colocar o código aqui:
 
 ```html
 <!DOCTYPE html>
@@ -84,9 +84,11 @@ Bom, a melhor forma de entender um assunto é pondo a mão na massa. Então reco
 
 Podemos notar que o nosso site ficará **muito** feio, sem nenhum tipo de cor ou organização. Isso ocorre devido a falta do CSS - Cascading Style Sheets ( folha de estilo em cascatas ).
 
+![Imagem de como ficou o nosso site](../assets/img/como_ficou.png)
+
 ## Parando pra pensar...
 
-Notei que uma boa ideia seria apresentar os assuntos resumidamente, com os slides e complementando aqui com o texto. Para no fim, criar de fato a explicação em um vídeo editado, passando por cada parte do nosso código, obviamente escrevendo também aqui e adicionando os códigos para conferirem.
+Notei que uma boa ideia seria apresentar os assuntos resumidamente, com os slides e complementando aqui com o texto. Para no fim, criar de fato a aplicação em um vídeo editado, passando por cada parte do nosso código, obviamente escrevendo também aqui e adicionando os códigos para conferirem.
 
 ## Mas iai?
 
