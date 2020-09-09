@@ -83,3 +83,11 @@ No apresentação podemos notar que no ultimo slide fiquei de colocar o código 
 Bom, a melhor forma de entender um assunto é pondo a mão na massa. Então recomendo muito que leiam de outras fontes - no slide recomendo o [W3School](https://www.w3schools.com/html/default.asp), mas existem outros. Além disso, que tentem pegar o código e mexam muito nele, testando cada funcionalidade.
 
 Podemos notar que o nosso site ficará **muito** feio, sem nenhum tipo de cor ou organização. Isso ocorre devido a falta do CSS - Cascading Style Sheets ( folha de estilo em cascatas ).
+
+## Parando pra pensar...
+
+Notei que uma boa ideia seria apresentar os assuntos resumidamente, com os slides e complementando aqui com o texto. Para no fim, criar de fato a explicação em um vídeo editado, passando por cada parte do nosso código, obviamente escrevendo também aqui e adicionando os códigos para conferirem.
+
+## Mas iai?
+
+Deixem aqui nos comentários o que acharam da ideia, estudem sobre isso, mandem perguntas aqui ou em alguma rede social minha pois na próxima postagem iremos aprender o básico do CSS, criando uma mini página para mostrarem ao mundo! Espero que tenham gostado =)
