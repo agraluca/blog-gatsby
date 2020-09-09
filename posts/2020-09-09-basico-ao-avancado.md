@@ -14,7 +14,7 @@ Bom a verdade é que estou sem ideias para construir o inicio da nossa aplicaç�
 
 > Para começar irei passar o arquivo PowerPoint do primeiro modulo. Nele eu falo a respeito de conceitos básicos de HTML, algumas de suas tags e suas propriedades.
 
-<iframe src="https://onedrive.live.com/embed?cid=B3E072143D9FE0F1&amp;resid=B3E072143D9FE0F1%21584&amp;authkey=ABTZQC4qNZmJ9aw&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=B3E072143D9FE0F1&amp;resid=B3E072143D9FE0F1%21584&amp;authkey=ABTZQC4qNZmJ9aw&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Como irão notar...
 
