@@ -6,11 +6,12 @@ image: ../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg
 category: Geral
 background: "#F76C5E"
 ---
+
 # Que os jogos comecem!
 
 ![Duas setas no chão representando uma escolha de qual caminho fazer](../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg)
 
-> Enquanto estou na fazenda tive essa ideia de fazer essa enquete onde vocês irão decidir a próxima série de posts! 
+> Enquanto estou na fazenda tive essa ideia de fazer essa enquete onde vocês irão decidir a próxima série de posts!
 
 ![Imagem do por do sol na fazenda](../assets/img/b0164a3e-a9f4-4808-8130-3b519c478c0c.jpeg)
 
@@ -27,7 +28,7 @@ Fazer uma votação a respeito de três possibilidades:
 
 ## Porém pra isso acontecer...
 
-Espero que vocês votem! E sigam essa série! Acho que irá agregar bastante para mim e também para todos vocês. Nada melhor do que aprender numa comunidade, ensinando e aprendendo. 
+Espero que vocês votem! E sigam essa série! Acho que irá agregar bastante para mim e também para todos vocês. Nada melhor do que aprender numa comunidade, ensinando e aprendendo.
 
 > Caso haja necessidade poderei até criar um Discord com esse intuito. Ou quem sabe um Slack.
 
@@ -39,5 +40,5 @@ Por fim, aqui esta o link da votação: https://www.strawpoll.me/20897574
 
 ## É isso pessoal...
 
-Espero que tenham gostado da ideia 
+Espero que tenham gostado da ideia
 Forte abraço galera!
