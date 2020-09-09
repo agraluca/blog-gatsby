@@ -19,17 +19,17 @@ background: "#F76C5E"
 Bom a ideia é a seguinte:
 Fazer uma votação a respeito de três possibilidades:
 
-1- Uma série de postagens completa fazendo uma mini aplicação, do básico (html, css) até o mais “avançado” (javascript, react.js, node.js e o deploy).
+1- Uma série de postagens completa fazendo uma mini aplicação, do básico (HTML, CSS) até o mais “avançado” (JavaScript, React.JS, Node.JS e o deploy).
 
 2- Se aprofundar bem no uso dos React Hooks (useState, useEffect, useContext, useReducer, useRef... etc).
 
-3- Se aprofundar um pouco mais no Gatsby, aprendendo suas vantagens, SEO, tratação de imagens e etc.
+3- Se aprofundar um pouco mais no Gatsby, aprendendo suas vantagens, SEO, tratamento de imagens e etc.
 
-## Pórem pra isso acontecer...
+## Porém pra isso acontecer...
 
 Espero que vocês votem! E sigam essa série! Acho que irá agregar bastante para mim e também para todos vocês. Nada melhor do que aprender numa comunidade, ensinando e aprendendo. 
 
-> Caso haja necessidade poderei até criar um discord com esse intúito. Ou quem sabe um Slack.
+> Caso haja necessidade poderei até criar um Discord com esse intuito. Ou quem sabe um Slack.
 
 ## Na terça...
 
