@@ -12,7 +12,7 @@ background: "#F76C5E"
 
 > Enquanto estou na fazenda tive essa ideia de fazer essa enquete onde vocês irão decidir a próxima série de posts!
 
-![Imagem do pôr do sol na fazenda](../assets/img/por-do-sol-fazenda.jpeg)
+![Imagem do pôr do sol na fazenda](../assets/img/por-do-sol-fazenda.jpg)
 
 ## A ideia...
 
