@@ -84,7 +84,7 @@ Bom, a melhor forma de entender um assunto é pondo a mão na massa. Então reco
 
 Podemos notar que o nosso site ficará **muito** feio, sem nenhum tipo de cor ou organização. Isso ocorre devido a falta do CSS - Cascading Style Sheets ( folha de estilo em cascatas ).
 
-![Imagem de como ficou o nosso site](../assets/img/como_ficou.png)
+![Imagem de como ficou o nosso site](../assets/img/como_ficou.jpg)
 
 ## Parando pra pensar...
 
