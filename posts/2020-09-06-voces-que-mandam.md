@@ -6,14 +6,13 @@ image: ../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg
 category: Geral
 background: "#F76C5E"
 ---
-
 # Que os jogos comecem!
 
 ![Duas setas no chão representando uma escolha de qual caminho fazer](../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg)
 
 > Enquanto estou na fazenda tive essa ideia de fazer essa enquete onde vocês irão decidir a próxima série de posts!
 
-![Imagem do por do sol na fazenda](../assets/img/b0164a3e-a9f4-4808-8130-3b519c478c0c.jpeg)
+![Imagem do pôr do sol na fazenda](../assets/img/por-do-sol-fazenda.jpeg)
 
 ## A ideia...
 
