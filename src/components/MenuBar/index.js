@@ -6,13 +6,17 @@ import { UpArrowAlt as Arrow } from "@styled-icons/boxicons-regular/UpArrowAlt"
 import { LightBulb as Light } from "@styled-icons/octicons/LightBulb"
 import { Grid } from "@styled-icons/boxicons-solid/Grid"
 import { ThList as List } from "@styled-icons/typicons/ThList"
+import { Menu } from "@styled-icons/entypo/Menu"
 import getThemeColor from "../../utils/getThemeColor"
+import MenuMobile from "../MenuMobile"
 
 import * as S from "./styled"
 
 function MenuBar() {
   const [theme, setTheme] = useState(null)
   const [display, setDisplay] = useState(null)
+  const [screenSize, setScreenSize] = useState(window.innerWidth)
+  const [activeScreen, setActiveScreen] = useState(false)
 
   const isDarkMode = theme === "dark"
   const isListMode = display === "list"
@@ -27,6 +31,15 @@ function MenuBar() {
   function handleGoTop() {
     window.scroll({ top: 0, behavior: "smooth" })
   }
+
+  useEffect(() => {
+    function getScreenSize() {
+      const newWidth = window.innerWidth
+      setScreenSize(newWidth)
+    }
+    window.addEventListener("resize", getScreenSize)
+    return () => window.removeEventListener("resize", getScreenSize)
+  }, [])
 
   return (
     <S.MenuBarWrapper>
@@ -57,6 +70,23 @@ function MenuBar() {
           </S.MenuBarItem>
         </S.MenuBarLink>
       </S.MenuBarGroup>
+
+      {screenSize <= 1170 && (
+        <S.MenuBarGroup>
+          <S.MenuBarLink
+            to="/menuMobile"
+            title="Abrir Menu"
+            activeClassName="active"
+            paintDrip
+            duration={0.6}
+            hex={getThemeColor()}
+          >
+            <S.MenuBarItem>
+              <Menu />
+            </S.MenuBarItem>
+          </S.MenuBarLink>
+        </S.MenuBarGroup>
+      )}
 
       <S.MenuBarGroup>
         <S.MenuBarItem
