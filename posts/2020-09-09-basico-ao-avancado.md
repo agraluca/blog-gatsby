@@ -22,17 +22,20 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
 
 ```html
 <!DOCTYPE html>
-
 <html lang="pt-br">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+
     <title>Nome do site</title>
   </head>
+
   <body>
-    
     <header id="header-content">
-      <h3>Menu</h3>
+      <h3>Logo</h3>
       <ul>
         <a href="index.html" title="Início">
           <li>Home</li>
@@ -42,39 +45,45 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
         </a>
       </ul>
     </header>
-    
-    <section>
-      <img
-        src="https://images.unsplash.com/photo-1506057213367-028a17ec52e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjQzMzEwfQ&auto=format&fit=crop&w=600&q=60"
-        alt="Imagem do pôr do sol na fazenda"
-      />
-    </section>
-    
-    <aside class="sideMenu">Menu Lateral</aside>
-    
+
+    <div class="container">
+      <section>
+        <img
+          src="https://lucaagra.netlify.app/assets/img/por-do-sol-fazenda.jpg"
+          alt="Imagem do pôr do sol na fazenda"
+        />
+      </section>
+      <aside class="sideMenu">Menu Lateral</aside>
+    </div>
+
     <main>
       <h1>Conteudo principal</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorum
         illum aperiam. Consequatur, est quibusdam praesentium libero cumque
         atque labore, maxime culpa repellat deserunt quas cum. Dicta ut ab
-        veritatis.
+        veritatis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste
+        dolorum illum aperiam. Consequatur, est quibusdam praesentium libero
+        cumque atque labore, maxime culpa repellat deserunt quas cum. Dicta ut
+        ab veritatis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Iste dolorum illum aperiam. Consequatur, est quibusdam praesentium
+        libero cumque atque labore, maxime culpa repellat deserunt quas cum.
+        Dicta ut ab veritatis.
       </p>
     </main>
-    
+
     <footer>
-      <h2>Todos os direitos reservadors &copy;</h2>
+      <h2>Todos os direitos reservados &copy;</h2>
       <ul>
-        <a href="https://www.facebook.com/luca.agra/" title="Facebook">
+        <a href="https://www.facebook.com/luca.agra/">
           <li>Facebook</li>
         </a>
-        <a href="https://instagram.com/agraluca" title="Instagram">
+        <a href="https://instagram.com/agraluca">
           <li>Instagram</li>
         </a>
       </ul>
     </footer>
   </body>
-
 </html>
 ```
 
