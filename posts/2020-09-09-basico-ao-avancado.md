@@ -34,7 +34,7 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
   </head>
 
   <body>
-    <header>
+    <header id="header-content">
       <h3>Logo</h3>
       <ul>
         <a href="index.html" title="Início">
@@ -53,7 +53,7 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
           alt="Imagem do pôr do sol na fazenda"
         />
       </section>
-      <aside>Menu Lateral</aside>
+      <aside class="sideMenu">Menu Lateral</aside>
     </div>
 
     <main>
@@ -85,7 +85,6 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
     </footer>
   </body>
 </html>
-
 ```
 
 ## Aqui eu deixo algumas dicas...
