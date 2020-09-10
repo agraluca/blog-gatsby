@@ -1,5 +1,5 @@
 ---
-title: Básico ao Avançado
+title: Básico ao Avançado S01E01
 description: Curso básico ao avançado S01E01
 date: 2020-09-09 03:57:06
 image: ../assets/img/love2learn.jpg
@@ -31,7 +31,7 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
   </head>
   <body>
     
-    <header>
+    <header id="header-content">
       <h3>Menu</h3>
       <ul>
         <a href="index.html" title="Início">
@@ -50,7 +50,7 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
       />
     </section>
     
-    <aside>Menu Lateral</aside>
+    <aside class="sideMenu">Menu Lateral</aside>
     
     <main>
       <h1>Conteudo principal</h1>
