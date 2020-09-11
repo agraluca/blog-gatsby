@@ -127,7 +127,7 @@ footer a:hover {
 
 Calma gente, é grande e tem um monte de coisa que não tem no slide, mas vamos entender tudinho. Primeiro quero que vocês reparem logo de cara em uma coisa: Todos os códigos estão escritos na mesma ordem que as tags do HTML estão, isso ajuda MUITO para quem vê o código, seja num trabalho em equipe, ou seja para você mesmo quando ler no futuro.
 
-Notem que já começamos o código com um "**{}". Isso significa que estamos dando um reset logo de cara no site. Fazemos isso por que os navegadores tem umas configurações de fábrica que já dão uns espaçamentos no nosso site. Ai para resolver isso pegamos tudo (**) e zeramos o margin, padding e atribuimos ao box-sizing esse border box: 
+Notem que já começamos o código com um "**{}". Isso significa que estamos dando um reset logo de cara no site. Fazemos isso por que os navegadores tem umas configurações de fábrica que já dão uns espaçamentos no nosso site. Ai para resolver isso pegamos tudo (**) e zeramos o margin, padding e atribuímos ao box-sizing esse border box: 
 
 > As propriedades de largura (width) e de altura (height) incluem o tamanho padding size e a propriedade border, mas não incluem a propriedade margin.
 
@@ -147,13 +147,13 @@ Notem também que todo "li" dentro de todo "a" dentro de toda "ul" aplicamos uma
 
 ### A capa:
 
-Para conseguirmos o efeito de colocar a imagem + menu lateral um do lado do outro tivemos que utilizar o Flexbox de novo. Chamamos aquela classe container que estava na nossa "div". E dentro dessa "div" tinhamos o "aside" e o "section". Dando a propriedade "display:flex;" e "justify-content: space-around;" colocamos um ao lado do outro. Dai foi só estipular cores e o tamanho da largura que cada um ocuparia.
+Para conseguirmos o efeito de colocar a imagem + menu lateral um do lado do outro tivemos que utilizar o Flexbox de novo. Chamamos aquela classe container que estava na nossa "div". E dentro dessa "div" tínhamos o "aside" e o "section". Dando a propriedade "display:flex;" e "justify-content: space-around;" colocamos um ao lado do outro. Dai foi só estipular cores e o tamanho da largura que cada um ocuparia.
 
 ### Os conteúdos:
 
 Uma nova propriedade que aprendemos foi a "flex-direction: column;" que aplicamos diretamente no "main". Por padrão o display flex coloca uma coisa colada na outra. Para podermos fazer uma tag ficar abaixo da outra, usamos essa propriedade.
 
-Dai estilizamos o "h1" dando um "font-size" (tamanho da fonte), e transformamos o "h1" em maiúsculo com o "text-transform: uppercase;". O "p" demos uma espaçada entre cada letra (letter-spacing: 0.08rem;) e atribuimos uma altura para cada palavra(line-height: 1.8rem;)
+Dai estilizamos o "h1" dando um "font-size" (tamanho da fonte), e transformamos o "h1" em maiúsculo com o "text-transform: uppercase;". O "p" demos uma espaçada entre cada letra (letter-spacing: 0.08rem;) e atribuímos uma altura para cada palavra(line-height: 1.8rem;)
 
 ### O footer:
 
