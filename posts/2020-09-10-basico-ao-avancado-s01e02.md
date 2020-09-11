@@ -4,7 +4,7 @@ description: Curso básico ao avançado S01E02
 date: 2020-09-10 05:48:26
 image: ../assets/img/love2learn.jpg
 category: CSS
-background: "#C2AFF0"
+background: "#835DFD"
 ---
 # Hoje daremos continuidade...
 

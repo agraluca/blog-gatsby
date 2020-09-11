@@ -4,7 +4,7 @@ description: A escolha é sua!
 date: 2020-09-06 05:46:03
 image: ../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg
 category: Geral
-background: "#F76C5E"
+background: "#779884"
 ---
 # Que os jogos comecem!
 
