@@ -8,7 +8,6 @@ import { Grid } from "@styled-icons/boxicons-solid/Grid"
 import { ThList as List } from "@styled-icons/typicons/ThList"
 import { Menu } from "@styled-icons/entypo/Menu"
 import getThemeColor from "../../utils/getThemeColor"
-import MenuMobile from "../MenuMobile"
 
 import * as S from "./styled"
 
@@ -16,7 +15,6 @@ function MenuBar() {
   const [theme, setTheme] = useState(null)
   const [display, setDisplay] = useState(null)
   const [screenSize, setScreenSize] = useState(window.innerWidth)
-  const [activeScreen, setActiveScreen] = useState(false)
 
   const isDarkMode = theme === "dark"
   const isListMode = display === "list"
