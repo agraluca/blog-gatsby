@@ -127,7 +127,7 @@ footer a:hover {
 
 Calma gente, é grande e tem um monte de coisa que não tem no slide, mas vamos entender tudinho. Primeiro quero que vocês reparem logo de cara em uma coisa: Todos os códigos estão escritos na mesma ordem que as tags do HTML estão, isso ajuda MUITO para quem vê o código, seja num trabalho em equipe, ou seja para você mesmo quando ler no futuro.
 
-Notem que já começamos o código com um "**{}". Isso significa que estamos dando um reset logo de cara no site. Fazemos isso por que os navegadores tem umas configurações de fábrica que já dão uns espaçamentos no nosso site. Ai para resolver isso pegamos tudo (*) e zeramos o margin, padding e atribuimos ao box-sizing esse border box: 
+Notem que já começamos o código com um "**{}". Isso significa que estamos dando um reset logo de cara no site. Fazemos isso por que os navegadores tem umas configurações de fábrica que já dão uns espaçamentos no nosso site. Ai para resolver isso pegamos tudo (**) e zeramos o margin, padding e atribuimos ao box-sizing esse border box: 
 
 > As propriedades de largura (width) e de altura (height) incluem o tamanho padding size e a propriedade border, mas não incluem a propriedade margin.
 
