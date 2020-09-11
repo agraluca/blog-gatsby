@@ -105,6 +105,8 @@ module.exports = {
         // The property ID; the tracking code won't be generated without it
         trackingId: process.env.GOOGLE_ANALYTICS_ID,
         head: false,
+        anonymize: true,
+        pageTransitionDelay: 0,
       },
     },
     {
