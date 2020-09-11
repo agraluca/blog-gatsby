@@ -16,7 +16,7 @@ Bom, desde o último post, tive a ótima ideia de manter um certo padrão de pos
 
 > Para começar a postagem de hoje irei passar o arquivo PowerPoint da aula de hoje, mesmo esquema do último post. Nele eu falo a respeito de conceitos básicos de CSS, o que é, suas propriedades e como o integrar.
 
-<iframe src="https://onedrive.live.com/embed?cid=B3E072143D9FE0F1&amp;resid=B3E072143D9FE0F1%21586&amp;authkey=AGzTWt4k_RdTzeU&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=B3E072143D9FE0F1&amp;resid=B3E072143D9FE0F1%21586&amp;authkey=AGzTWt4k_RdTzeU&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Não podemos esquecer...
 
