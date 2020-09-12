@@ -17,13 +17,12 @@ export const MenuBarWrapper = styled.aside`
   transition: background 0.5s;
 
   ${media.lessThan("large")`
-  --safe-area-inset-bottom: env(safe-area-inset-bottom);
     border-top: 1px solid var(--borders);
     bottom: 0;
     flex-direction: row;
     height: auto;
     padding: 0;
-    padding: var(--safe-area-inset-bottom);
+    padding-bottom: env(safe-area-inset-bottom, 0);
     position: fixed;
     width: 100%;
   `}

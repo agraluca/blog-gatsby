@@ -35,10 +35,10 @@ collections:
           widget: "select",
           options:
             [
-              { label: "GERAL", value: "#587463" },
-              { label: "HTML", value: "#C83C19" },
-              { label: "CSS", value: "#5421FD" },
-              { label: "JS", value: "#AC2020" },
+              { label: "GERAL", value: "#3D5145" },
+              { label: "HTML", value: "#912B12" },
+              { label: "CSS", value: "#3602DE" },
+              { label: "JS", value: "#8A1919" },
             ],
         }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
