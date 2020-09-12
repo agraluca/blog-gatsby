@@ -4,7 +4,8 @@ import AniLink from "gatsby-plugin-transition-link/AniLink"
 export const MenuMobileWrapper = styled.main`
   display: grid;
   place-items: center;
-  height: 100vh;
+  height: 80vh;
+
   background-color: var(--background);
 `
 

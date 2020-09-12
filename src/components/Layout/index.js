@@ -4,7 +4,6 @@ import { TransitionPortal } from "gatsby-plugin-transition-link"
 
 import Sidebar from "../Sidebar"
 import MenuBar from "../MenuBar"
-import MenuMobile from "../MenuMobile"
 
 import GlobalStyles from "../../styles/global"
 
