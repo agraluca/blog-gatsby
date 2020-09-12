@@ -4,7 +4,7 @@ description: Por favor, entrem!
 date: 2020-09-04 12:57:21
 image: assets/img/15f57c92-7bf0-470a-b7fd-e55618cdd6ba.jpeg
 category: Geral
-background: "#779884"
+background: "#3D5145"
 ---
 # Olá pessoal!
 
