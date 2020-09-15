@@ -14,6 +14,10 @@ const links = [
     label: "Instagram",
     url: "https://instagram.com/agraluca",
   },
+  {
+    label: "Telegram",
+    url: "https://t.me/lucaagrablog",
+  },
 ]
 
 export default links

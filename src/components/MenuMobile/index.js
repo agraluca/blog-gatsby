@@ -6,6 +6,7 @@ function MenuMobile() {
   return (
     <S.MenuMobileWrapper>
       <GlobalStyles />
+
       <S.MenuMobileLinksList>
         <S.MenuMobileLinksLink to="/">
           <S.MenuMobileLinksItem>Home</S.MenuMobileLinksItem>
