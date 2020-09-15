@@ -8,6 +8,8 @@ background: "#8A1919"
 ---
 # Dando continuidade a parte de JavaScript...
 
+![Curso básico ao avançado: Objetos e DOM](../assets/img/thumb1-4.png)
+
 Hoje trouxe uma pequena novidade para nossas postagens. Sempre que eu conseguir irei adicionar um vídeo explicativo sobre o assunto.
 
 > Inclusive comentem ai embaixo se acharam muito ruim e o que posso melhorar.
