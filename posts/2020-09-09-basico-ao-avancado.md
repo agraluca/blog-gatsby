@@ -4,7 +4,7 @@ description: Curso básico ao avançado S01E01
 date: 2020-09-09 03:57:06
 image: ../assets/img/love2learn.jpg
 category: HTML
-background: "#E44D26"
+background: "#912B12"
 ---
 ## Hoje começaremos...
 
