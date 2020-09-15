@@ -52,14 +52,18 @@ console.log(pessoa.familia.pai)
 
 Notem que utilizamos o console.log, portanto é preciso abrir o console. Para isso basta apertar f12 ou inspecionar e ir ate console. Iremos ver que o primeiro resultado será o objeto inteiro, com todas as informações dentro dele. Em seguida utilizamos o . para acessar as propriedades dentro deles. Mexam bastante no código, testem possibilidades diferentes!
 
-
-
 ## Referências...
 
 Irei colocar bastante sites de apoio nesse post, para poderem ver os objetos e as funcionalidades do DOM:
 
-- [MDN Web Docks objetos](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/B%C3%A1sico)
+* [MDN Web Docks objetos](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/B%C3%A1sico)
+* [W3School DOM ](https://www.w3schools.com/js/js_htmldom.asp)
+* [DevMedia DOM](https://www.devmedia.com.br/trabalhando-com-dom-em-javascript/29039)
 
-- [W3School DOM ](https://www.w3schools.com/js/js_htmldom.asp)
+## Por hoje é isso...
 
-- [DevMedia DOM](https://www.devmedia.com.br/trabalhando-com-dom-em-javascript/29039)
+Hoje o post foi mais curtinho, devido ao vídeo e também por não escolher tantos assuntos para serem abordados. Mas  como sempre, espero que aproveitem o máximo do assunto ensinado e caso haja qualquer dúvida é só mandar aqui em baixo ou em alguma rede social minha. 
+
+> Aproveitando o gancho, queria pedir que entrassem no meu canal do [Telegram](https://t.me/lucaagrablog), la anunciarei sobre postagens novas, novidades e muito mais. Em breve também irei colocar o slack de dúvidas para vocês!
+
+Enfim espero que tenham gostado, forte abraço! =)
