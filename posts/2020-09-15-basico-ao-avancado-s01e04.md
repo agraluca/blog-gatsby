@@ -18,6 +18,9 @@ Hoje falaremos sobre objetos e o início do DOM ( Document Object Model - Modelo
 
 <iframe width="933" height="525" src="https://www.youtube.com/embed/jz6qSdSEnSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## O que é um objeto?
+Um objeto é uma coleção de propriedades, cada propriedade tendo seu respectivo valor. Esse valor pode ser tanto um número, como uma string, outro objeto ou até uma função. As funções dentro de um objeto são chamadas de métodos. No vídeo vimos como criar nosso próprio objeto, descobrimos também o DOM, que também é um objeto. Aprendemos a acessá-los utilizando o ponto para entrar em cada propriedade.
+
 ## Ta bem, mas o que é DOM?
 
 O DOM é como se fosse uma arvore genealógica, onde você possui um grande objeto do seu site, o document. Através dele podemos alterar qualquer coisa do nosso site. Desde título a conteúdos específicos como tags, class e id. Com o JS podemos brincar com o DOM através dos scripts.
