@@ -42,7 +42,7 @@ Bom agora quero que vocês escrevam o seguinte:
 
 Dando enter notarão que vocês receberão como resposta a frase "Meu nome é Fulano".
 
-![JavaScript Logo](../assets/img/logojs.png)
+![Console](../assets/img/console.jpg)
 
 Isso ocorre por que demos um valor que continha o seu nome para uma variável. Variáveis são a base de uma linguagem de programação, pois posteriormente podemos buscar valores que precisamos que estão alocados nela.
 
