@@ -8,7 +8,7 @@ background: "#8A1919"
 ---
 # Hoje falaremos de JavaScript...
 
-![JavaScript logo](../assets/img/js.png)
+![Logo JavaScript](../assets/img/js.jpg)
 
 Bom, a abordagem que utilizarei será primeiramente abstrata. Mostrarei alguns tópicos e depois juntarei tudo. Diferentemente do HTML e do CSS essa parte do JS será mais longa, dividirei em algumas partes, não sei em quantas ainda. 
 
