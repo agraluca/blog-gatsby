@@ -10,11 +10,11 @@ background: "#8A1919"
 
 ![Capa curso básico ao avançado: array](../assets/img/arrays.png)
 
-Bom hoje falaremos de Arrays. Falta pouco para acabarmos nossa mini série de JavaScript e entrarmos em Node.JS e React.JS! Nesse video aconteceram algumas coisas...
+Bom hoje falaremos de Arrays. Falta pouco para acabarmos nossa mini série de JavaScript e entrarmos em Node.JS e React.JS! Nesse vídeo aconteceram algumas coisas...
 
 Primeiro que eu falei tudo sem estar gravando, ai tive que regravar. Segundo que me perdi um pouco, ai tive que me virar no editor para corrigir. Mas felizmente deu tudo certo, ufa!
 
-Colocarei o vídeo em que falamos de Array e dois métodos relacionados a ele - push() e splice() - segue o video abaixo:
+Colocarei o vídeo em que falamos de Array e dois métodos relacionados a ele - push() e splice() - segue vídeo abaixo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/40R-9WpdY-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ O método push() tem a funcionalidade de adicionarmos a última posição do arr
 
 Referência: [MDN Web Docs push](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/push), [W3School push](https://www.w3schools.com/jsref/jsref_push.asp)
 
-### o splice()...
+### O splice()...
 
 O método splice() funciona de forma oposta. Ele serve para excluirmos itens a partir de uma certa posição (index). Vale notar que o splice() recebe dois parâmetros: .splice(a, b). O primeiro parâmetro (a) recebe o valor a partir do qual começaremos a excluir itens, já o segundo parâmetro (b) são quantos itens iremos excluir a partir daquele valor pré-escolhido. Então se quisermos excluir o primeiro item de um array, basta passar: nomeDaVariavel.splice(0, 1). Uma coisa que não falo no vídeo é  a possibilidade de um terceiro parâmetro, que seria o último. Esse último parâmetro é opcional e serve para adicionar um item no local do removido, podendo inclusive ser mais de um valor.
 
