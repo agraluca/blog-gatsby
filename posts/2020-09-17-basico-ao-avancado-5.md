@@ -1,5 +1,5 @@
 ---
-title: Básico ao Avançado 5
+title: Básico ao Avançado S01E05
 description: Curso básico ao avançado S01E05
 date: 2020-09-17 06:08:18
 image: ../assets/img/arrays.png
