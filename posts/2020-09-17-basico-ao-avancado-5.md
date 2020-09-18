@@ -1,5 +1,5 @@
 ---
-title: Básico ao Avançado 5
+title: Básico ao Avançado S01E05
 description: Curso básico ao avançado S01E05
 date: 2020-09-17 06:08:18
 image: ../assets/img/arrays.png
@@ -16,7 +16,7 @@ Primeiro que eu falei tudo sem estar gravando, ai tive que regravar. Segundo que
 
 Colocarei o vídeo em que falamos de Array e dois métodos relacionados a ele - push() e splice() - segue vídeo abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/40R-9WpdY-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="933" height="525" src="https://www.youtube.com/embed/40R-9WpdY-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O que é um Array?
 
