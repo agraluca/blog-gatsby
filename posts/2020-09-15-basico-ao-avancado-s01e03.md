@@ -2,13 +2,13 @@
 title: Básico ao Avançado S01E03
 description: Curso básico ao avançado S01E03
 date: 2020-09-14 04:44:08
-image: ../assets/img/js.png
+image: ../assets/img/logojs.png
 category: JS
 background: "#8A1919"
 ---
 # Hoje falaremos de JavaScript...
 
-![JavaScript](../assets/img/js.png)
+![Logo JavaScript](../assets/img/logojs.png)
 
 Bom, a abordagem que utilizarei será primeiramente abstrata. Mostrarei alguns tópicos e depois juntarei tudo. Diferentemente do HTML e do CSS essa parte do JS será mais longa, dividirei em algumas partes, não sei em quantas ainda. 
 
@@ -42,7 +42,7 @@ Bom agora quero que vocês escrevam o seguinte:
 
 Dando enter notarão que vocês receberão como resposta a frase "Meu nome é Fulano".
 
-![Imagem do resultado do exemplo anterior no console](../assets/img/console.jpg)
+![Console](../assets/img/console.jpg)
 
 Isso ocorre por que demos um valor que continha o seu nome para uma variável. Variáveis são a base de uma linguagem de programação, pois posteriormente podemos buscar valores que precisamos que estão alocados nela.
 
