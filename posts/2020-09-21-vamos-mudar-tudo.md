@@ -2,13 +2,13 @@
 title: Vamos mudar tudo?
 description: Brainstorm de ideias
 date: 2020-09-21 07:31:52
-image: ../assets/img/logoOg.png
+image: ../assets/img/ola.jpg
 category: Geral
 background: "#3D5145"
 ---
 # No post de hoje...
 
-![imagem da logo](../assets/img/favicon.jpg)
+![imagem escrito olá em inglês ](../assets/img/ola.jpg)
 
 Iai pessoal, como vocês estão? Então, como podem notar, finalmente temos um domínio descente - Wuhul! 
 
