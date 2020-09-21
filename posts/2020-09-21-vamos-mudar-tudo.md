@@ -8,7 +8,7 @@ background: "#3D5145"
 ---
 # No post de hoje...
 
-![imagem da logo](../assets/img/logo_size_icon.jpg)
+![imagem da logo](../assets/img/favicon.jpg)
 
 Iai pessoal, como vocês estão? Então, como podem notar, finalmente temos um domínio descente - Wuhul! 
 
