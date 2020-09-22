@@ -8,6 +8,10 @@ export default function HTML(props) {
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta
+          name="google-site-verification"
+          content="KuRnX-O3KFFgLA9dB8P3B9tL8ltQNZ3_GRtk3ysTvyY"
+        />
+        <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
         />
