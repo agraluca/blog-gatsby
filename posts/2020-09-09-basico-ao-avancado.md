@@ -18,7 +18,7 @@ Bom a verdade é que estou sem ideias para construir o início da nossa aplicaç
 
 ## Como irão notar...
 
-No apresentação podemos notar que no último slide fiquei de colocar o código aqui:
+Na apresentação podemos notar que no último slide fiquei de colocar o código aqui:
 
 ```html
 <!DOCTYPE html>
@@ -85,7 +85,6 @@ No apresentação podemos notar que no último slide fiquei de colocar o código
     </footer>
   </body>
 </html>
-
 ```
 
 ## Aqui eu deixo algumas dicas...
