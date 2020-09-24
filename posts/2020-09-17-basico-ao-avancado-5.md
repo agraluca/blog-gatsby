@@ -2,13 +2,13 @@
 title: Básico ao Avançado S01E05
 description: Curso básico ao avançado S01E05
 date: 2020-09-17 06:08:18
-image: ../assets/img/arrays.png
+image: ../assets/img/arrays_5.png
 category: JS
 background: "#8A1919"
 ---
 # Dando continuidade ao último post...
 
-![Capa curso básico ao avançado: array](../assets/img/arrays.png)
+![Capa curso básico ao avançado: array](../assets/img/arrays_5.png)
 
 Bom hoje falaremos de Arrays. Falta pouco para acabarmos nossa mini série de JavaScript e entrarmos em Node.JS e React.JS! Nesse vídeo aconteceram algumas coisas...
 
