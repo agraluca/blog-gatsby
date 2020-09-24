@@ -8,6 +8,8 @@ background: "#8A1919"
 ---
 # Olá!
 
+![Capa do curso básico ao avançado mostrando o que aprenderemos: fetch e map](../assets/img/fetch.png)
+
 Iai pessoal, tudo bem com vocês? Hoje trouxe uma funcionalidade muito importante no JavaScript - o fetch. 
 O fetch é um método global utilizado para se comunicar com API's. Basicamente é uma forma do cliente se comunicar com o servidor. 
 
