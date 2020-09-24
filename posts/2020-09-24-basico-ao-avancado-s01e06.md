@@ -1,6 +1,6 @@
 ---
 title: Básico ao Avançado S01E06
-description: Curso básico ao avançado S01E05
+description: Curso básico ao avançado S01E06
 date: 2020-09-23 10:35:22
 image: ../assets/img/fetch.png
 category: JS
