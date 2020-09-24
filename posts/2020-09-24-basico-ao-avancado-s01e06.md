@@ -17,7 +17,7 @@ O fetch é um método global utilizado para se comunicar com API's. Basicamente 
 
 Segue vídeo do assunto:
 
-<iframe width="933" height="525" src="https://www.youtube.com/embed/VS2NdfWOuAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video básico ao avançado episódio 6" width="933" height="525" src="https://www.youtube.com/embed/VS2NdfWOuAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Novidade I:
 
