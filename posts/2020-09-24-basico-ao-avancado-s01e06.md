@@ -8,6 +8,8 @@ background: "#8A1919"
 ---
 # Olá!
 
+![Capa do curso básico ao avançado mostrando o que aprenderemos: fetch e map](../assets/img/fetch.png)
+
 Iai pessoal, tudo bem com vocês? Hoje trouxe uma funcionalidade muito importante no JavaScript - o fetch. 
 O fetch é um método global utilizado para se comunicar com API's. Basicamente é uma forma do cliente se comunicar com o servidor. 
 
@@ -15,7 +17,7 @@ O fetch é um método global utilizado para se comunicar com API's. Basicamente 
 
 Segue vídeo do assunto:
 
-<iframe width="933" height="525" src="https://www.youtube.com/embed/VS2NdfWOuAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video básico ao avançado episódio 6" width="933" height="525" src="https://www.youtube.com/embed/VS2NdfWOuAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Novidade I:
 
@@ -71,7 +73,13 @@ parametroRecebido.map( (parametro)=>{
 } )
 ```
 
-Então só para ficar mais claro. O map irá passar sobre o array da API que em suma é um array de objetos. Na sua primeira passada ele irá efetuar a função que você criar na primeira posição array\[0]. Após acabar essa interação - seja ela qual for, mas no nosso caso é de receber o valor de uma url, criar a tag <img class="" width="" height="" src=""> e popular o src="" com o valor recebido - ele irá efetuar isso de novo no array\[1]. Então após ele rodar por todas as posições do array ele irá parar.  
+Então só para ficar mais claro. O map irá passar sobre o array da API que em suma é um array de objetos. Na sua primeira passada ele irá efetuar a função que você criar na primeira posição array\[0]. Após acabar essa interação - seja ela qual for, mas no nosso caso é de receber o valor de uma url, criar a tag 
+
+```
+<img class="className" width="value" height="value" src="path" alt="textoAlternativo">
+```
+
+ e popular o src="" com o valor recebido - ele irá efetuar isso de novo no array\[1]. Então após ele rodar por todas as posições do array ele irá parar.  
 
 Parece complicado, mas assim que fizerem e utilizarem, ficará mais claro o seu funcionamento.
 
