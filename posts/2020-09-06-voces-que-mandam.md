@@ -6,7 +6,9 @@ image: ../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg
 category: Geral
 background: "#3D5145"
 ---
-# Que os jogos comecem!
+# Olá dev!
+
+## Que os jogos comecem!
 
 ![Duas setas no chão representando uma escolha de qual caminho fazer](../assets/img/5327cf96-c2ed-422d-89f8-4198d97d3347.jpeg)
 

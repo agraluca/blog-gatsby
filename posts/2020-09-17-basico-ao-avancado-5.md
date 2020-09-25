@@ -2,13 +2,15 @@
 title: Básico ao Avançado S01E05
 description: Curso básico ao avançado S01E05
 date: 2020-09-17 06:08:18
-image: ../assets/img/arrays.png
+image: ../assets/img/arrays_5.png
 category: JS
 background: "#8A1919"
 ---
-# Dando continuidade ao último post...
+# Olá dev!
 
-![Capa curso básico ao avançado: array](../assets/img/arrays.png)
+## Dando continuidade ao último post...
+
+![Capa curso básico ao avançado: array](../assets/img/arrays_5.png)
 
 Bom hoje falaremos de Arrays. Falta pouco para acabarmos nossa mini série de JavaScript e entrarmos em Node.JS e React.JS! Nesse vídeo aconteceram algumas coisas...
 
@@ -16,7 +18,7 @@ Primeiro que eu falei tudo sem estar gravando, ai tive que regravar. Segundo que
 
 Colocarei o vídeo em que falamos de Array e dois métodos relacionados a ele - push() e splice() - segue vídeo abaixo:
 
-<iframe width="933" height="525" src="https://www.youtube.com/embed/40R-9WpdY-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="video do episódio cinco da série básico ao avançado" width="933" height="525" src="https://www.youtube.com/embed/40R-9WpdY-Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O que é um Array?
 

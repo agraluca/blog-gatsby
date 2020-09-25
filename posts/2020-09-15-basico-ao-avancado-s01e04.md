@@ -6,7 +6,9 @@ image: ../assets/img/thumb1-4.png
 category: JS
 background: "#8A1919"
 ---
-# Dando continuidade a parte de JavaScript...
+# Olá dev!
+
+## Dando continuidade a parte de JavaScript...
 
 ![Curso básico ao avançado: Objetos e DOM](../assets/img/thumb1-4.png)
 
@@ -16,7 +18,7 @@ Hoje trouxe uma pequena novidade para nossas postagens. Sempre que eu conseguir 
 
 Hoje falaremos sobre objetos e o início do DOM ( Document Object Model - Modelo de Objeto de Documento ). Segue o vídeo:
 
-<iframe width="933" height="525" src="https://www.youtube.com/embed/jz6qSdSEnSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="vídeo do episódio quatro da série básico ao avançado" width="933" height="525" src="https://www.youtube.com/embed/jz6qSdSEnSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O que é um objeto?
 Um objeto é uma coleção de propriedades, cada propriedade tendo seu respectivo valor. Esse valor pode ser tanto um número, como uma string, outro objeto ou até uma função. As funções dentro de um objeto são chamadas de métodos. No vídeo vimos como criar nosso próprio objeto, descobrimos também o DOM, que também é um objeto. Aprendemos a acessá-los utilizando o ponto para entrar em cada propriedade.
