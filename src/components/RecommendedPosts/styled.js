@@ -12,7 +12,7 @@ export const RecommendedWrapper = styled.section`
 export const RecommendedLink = styled(AniLink)`
   align-items: center;
   background: var(--mediumBackground);
-  color: var(--highligh);
+  color: var(--highlight);
   display: flex;
   padding: 3rem;
   text-decoration: none;

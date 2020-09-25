@@ -15,7 +15,7 @@ export const CommentsWrapper = styled.section`
   `}
   #disqus_thread {
     a {
-      color: var(--highligh) !important;
+      color: var(--highlight) !important;
     }
   }
 `

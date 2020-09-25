@@ -19,7 +19,7 @@ export const ProfileLink = styled(AniLink)`
   `}
 
   &:hover {
-    color: var(--highligh);
+    color: var(--highlight);
   }
 `
 

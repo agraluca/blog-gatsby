@@ -42,7 +42,7 @@ export const MenuBarLink = styled(AniLink)`
 
   &.active {
     span {
-      color: #1fa1f2;
+      color: var(--highlight);
     }
   }
 `
@@ -56,7 +56,11 @@ export const MenuBarItem = styled.span`
   position: relative;
   width: 3.75rem;
   &.active {
-    color: #1fa1f2;
+    color: var(--highlight);
+  }
+
+  &.no-pointer {
+    cursor: unset;
   }
 
   &.light {
@@ -68,7 +72,7 @@ export const MenuBarItem = styled.span`
   }
 
   &:hover {
-    color: #1fa1f2;
+    color: var(--highlight);
   }
 
   &.display {

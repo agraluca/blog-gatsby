@@ -8,6 +8,7 @@ import { Grid } from "@styled-icons/boxicons-solid/Grid"
 import { ThList as List } from "@styled-icons/typicons/ThList"
 import { Menu } from "@styled-icons/entypo/Menu"
 import getThemeColor from "../../utils/getThemeColor"
+import FavIcon from "../../../static/assets/img/favicon.svg"
 
 import * as S from "./styled"
 
@@ -83,6 +84,13 @@ function MenuBar() {
               <Menu />
             </S.MenuBarItem>
           </S.MenuBarLink>
+        </S.MenuBarGroup>
+      )}
+      {screenSize > 1170 && (
+        <S.MenuBarGroup>
+          <S.MenuBarItem className="no-pointer">
+            <img src={FavIcon} alt="Logomarca" />
+          </S.MenuBarItem>
         </S.MenuBarGroup>
       )}
 

@@ -12,7 +12,7 @@ export const PostItemLink = styled(AniLink)`
   }
 
   &:hover {
-    color: #1fa1f2;
+    color: var(--highlight);
   }
 `
 
@@ -39,7 +39,8 @@ export const PostItemWrapper = styled.section`
 
 export const PostItemTag = styled.div`
   align-items: center;
-  background: ${props => (props.background ? props.background : "#1FA1F2")};
+  background: ${props =>
+    props.background ? props.background : "var(--highlight)"};
   border-radius: 50%;
   color: var(--white);
   display: flex;
