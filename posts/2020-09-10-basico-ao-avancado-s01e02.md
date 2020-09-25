@@ -6,7 +6,9 @@ image: ../assets/img/love2learn.jpg
 category: CSS
 background: "#3602DE"
 ---
-# Hoje daremos continuidade...
+# Olá dev!
+
+## Hoje daremos continuidade...
 
 ![Código em CSS](../assets/img/css_blog.jpg)
 
