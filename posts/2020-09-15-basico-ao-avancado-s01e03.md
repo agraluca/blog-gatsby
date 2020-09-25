@@ -6,7 +6,9 @@ image: ../assets/img/logojs.png
 category: JS
 background: "#8A1919"
 ---
-# Hoje falaremos de JavaScript...
+# Olá dev!
+
+## Hoje falaremos de JavaScript...
 
 ![Logo JavaScript](../assets/img/logojs.png)
 
