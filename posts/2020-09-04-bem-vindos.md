@@ -6,7 +6,7 @@ image: assets/img/15f57c92-7bf0-470a-b7fd-e55618cdd6ba.jpeg
 category: Geral
 background: "#3D5145"
 ---
-# Olá pessoal!
+# Olá dev!
 
 ![Bem-vindos! Por favor, entrem!](../assets/img/15f57c92-7bf0-470a-b7fd-e55618cdd6ba.jpeg)
 
