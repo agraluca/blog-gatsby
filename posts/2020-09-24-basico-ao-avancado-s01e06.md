@@ -6,11 +6,11 @@ image: ../assets/img/fetch.png
 category: JS
 background: "#8A1919"
 ---
-# Olá!
+# Olá dev!
 
 ![Capa do curso básico ao avançado mostrando o que aprenderemos: fetch e map](../assets/img/fetch.png)
 
-Iai pessoal, tudo bem com vocês? Hoje trouxe uma funcionalidade muito importante no JavaScript - o fetch. 
+Tudo bem com vocês? Hoje trouxe uma funcionalidade muito importante no JavaScript - o fetch. 
 O fetch é um método global utilizado para se comunicar com API's. Basicamente é uma forma do cliente se comunicar com o servidor. 
 
 > A sigla API corresponde às palavras em inglês “Application Programming Interface“. No português “Interface de Programação de Aplicações”. Elas são uma forma de integrar sistemas.
