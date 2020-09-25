@@ -6,7 +6,9 @@ image: ../assets/img/thumb1-4.png
 category: JS
 background: "#8A1919"
 ---
-# Dando continuidade a parte de JavaScript...
+# Olá dev!
+
+## Dando continuidade a parte de JavaScript...
 
 ![Curso básico ao avançado: Objetos e DOM](../assets/img/thumb1-4.png)
 
