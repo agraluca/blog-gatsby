@@ -55,17 +55,17 @@ Para facilitar a vida de vocês deixarei um passo a passo geralzão do que preci
 
 4- No terminal, dentro da pasta do seu projeto:
 
-4.1- git init
+4.1- git init (inicializa repo git)
 
-4.2- git add -A
+4.2- git add -A (adciona alterações)
 
-4.3- git commit -m "texto lembrete"
+4.3- git commit -m "texto lembrete" (persiste dados no histórico de todas as adições feitas com o git add)
 
-4.4- git branch -M master
+4.4- git branch -M master (cria nova branch)
 
-4.5- git remote add origin "o dominio https informado no seu github" (sem aspas)
+4.5- git remote add origin "o dominio https informado no seu github" - sem aspas -  (lista caminho do servidor, onde serão enviadas nossas alterações)
 
-4.6- git push origin master
+4.6- git push origin master (envia nossa branch para o servidor, no nosso caso nossa branch se chama: master)
 
 ## Para auxiliar...
 
