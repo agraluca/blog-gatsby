@@ -39,6 +39,7 @@ collections:
               { label: "HTML", value: "#912B12" },
               { label: "CSS", value: "#3602DE" },
               { label: "JS", value: "#8A1919" },
+              { label: "GIT", value: "#9B3408" },
             ],
         }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
