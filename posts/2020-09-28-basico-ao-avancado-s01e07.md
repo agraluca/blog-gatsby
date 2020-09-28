@@ -67,12 +67,13 @@ Para facilitar a vida de vocês deixarei um passo a passo geralzão do que preci
 
 4.6- git push origin master
 
-\## Para auxiliar...
+## Para auxiliar...
 
 Irei deixar o link do repositório da aplicação - igual ao ensinado no video. Para caso queiram ver como ficou:
 
 [Repositório feito no vídeo](https://github.com/agraluca/minhaAplicacao)
 
-\## Então é isso pessoal...
+## Então é isso pessoal...
 
 Espero que tenham gostado e aprendido um pouco! Vejam o vídeo e sigam o passo a passo que tudo irá funcionar direitinho. Qualquer dúvida, mandem para mim que irei auxiliar vocês =)
+Forte abraço!
