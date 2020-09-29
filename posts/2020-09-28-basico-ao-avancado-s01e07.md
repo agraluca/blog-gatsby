@@ -12,7 +12,7 @@ background: "#9B3408"
 
 Tudo bem com vocês? Então, na aula de hoje vamos aprender o basicão de Git e Github. Essencialmente, vamos aprender a colocar o site que criamos com o uso do fetch(), da [última aula](https://oladev.com.br/basico-ao-avancado-s01e06/) da série básico ao avançado, no nosso novo repositório do Github.
 
-Segue vídeo abaixo:
+Segue vídeo, abaixo:
 
 <iframe title="video da série básico avançado, episódio sete" width="933" height="525" src="https://www.youtube.com/embed/gyY3CcIAK20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
