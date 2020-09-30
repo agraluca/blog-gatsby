@@ -14,6 +14,7 @@ Tudo bem com vocês? Hoje falaremos sobre o famoso Node.JS. Uma ferramenta muito
 A sua definição no site oficial do Node é a seguinte: 
 
 > Node.JS é um runtime (algo parecido como executador) do Javascript, construído no motor V8 JavaScript do Chrome.
+
 Notamos que é uma explicação um tanto confusa... Se eu tivesse lido isso a primeira vez que tive contato com o Node.JS, eu não teria entendido nada kkkk.
 Mas irei dar exemplos pra vocês entenderem na prática pra que o Node serve. 
 
