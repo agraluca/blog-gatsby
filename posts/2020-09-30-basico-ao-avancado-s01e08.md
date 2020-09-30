@@ -35,7 +35,7 @@ Com o NPM poderemos utilizar dezenas de bibliotecas famosas que facilitarão nos
 ## Instalação...
 
 Para instalarmos o Node.JS é ridiculamente fácil:
-Basta entrarmos no site do [Node.JS](https://nodejs.org/en/) e clicar no botão verde da esquerda. Nele terá escrito
+Basta entrarmos no site do [Node.JS](https://nodejs.org/en/) e clicar no botão verde da esquerda. Nele terá escrito:
 
 A versão que ele está + LTS - logo abaixo terá escrito: "Recommended For Most Users". 
 
@@ -47,9 +47,12 @@ Apartir daí, basta dar next, next..., install. Que por padrão, as opções est
 
 ## Conferindo...
 
-Para saber se tudo deu certo, basta abrirmos o cmd. Para fazer isso podemos apertar as teclas: win + r 
+Para saber se tudo deu certo, basta abrirmos o cmd. Para fazer isso podemos apertar as teclas: win + r
+
 Escrever "cmd" na caixa que aparecerá e dar enter.
+
 Assim que o terminal abrir, basta escrever: node -v
+
 Se tudo estiver funcionando, como esperado, irá aparecer a versão do seu node logo abaixo.
 
 ![print do terminal mostrando o explicado acima (a versão do node)](../assets/img/terminal.png)
