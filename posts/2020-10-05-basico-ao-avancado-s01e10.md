@@ -130,4 +130,4 @@ Dai basta abrir o seu navegador favorito - e por favor, que não seja o internet
 
 ## Isso é tudo...
 
-Não irei me estender mais, o post já está com bastante conteúdo. Espero que tenham gostado, qualquer dúvida só mandar! Espero que tenham gostado, forte abraço!
+Não irei me estender mais, o post já está com bastante conteúdo. Espero que tenham gostado, qualquer dúvida só mandar, forte abraço!
