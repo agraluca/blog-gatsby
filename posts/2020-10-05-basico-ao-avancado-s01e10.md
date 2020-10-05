@@ -14,7 +14,7 @@ Tudo bem com vocês? Hoje daremos continuidade a parte dois do post anterior. Na
 
 Agora iremos aprender a importar essas dependências para nossos arquivos, como configurar o comando que da start no nosso servidor, configurações gerais, portas e nossa primeira rota. Segue o vídeo abaixo com a explicação:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Dac8e02gyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  title="video da série básico avançado, episódio nove" width="933" height="525"  src="https://www.youtube.com/embed/9Dac8e02gyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O start...
 
@@ -119,8 +119,8 @@ Por fim damos o comando que irá dizer para o Node.JS em qual porta iremos ouvir
 
 ```javascript
 app.listen(port, () => console.log("Funcionando"));
-
 ```
+
 Damos o comando app.listen(). Dentro dele escrevi dois parâmetros:
  O primeiro é a nossa porta, como criamos uma constante anteriormente, iremos passar ela. O segundo parâmetro é opcional, e eu coloquei uma arrow function que irá dar um console.log("Funcionando"), só para ter o feedback no terminal do Node.JS, mas essa parte é opcional.
 
