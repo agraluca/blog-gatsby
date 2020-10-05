@@ -10,7 +10,7 @@ background: "#8A1919"
 
 ![capa do curso básico ao avançado, episódio dez: API REST parte dois](../assets/img/api-parte2.jpg)
 
-Tudo bem com vocês? Hoje daremos continuidade a parte dois do post anterior. Na[ última aula](https://oladev.com.br/basico-ao-avancado-s01e09/) aprendemos sobre nossa Stack e como instalar dependências. 
+Tudo bem com vocês? Hoje daremos continuidade a parte dois do post anterior. Na [última aula](https://oladev.com.br/basico-ao-avancado-s01e09/) aprendemos sobre nossa Stack e como instalar dependências. 
 
 Agora iremos aprender a importar essas dependências para nossos arquivos, como configurar o comando que da start no nosso servidor, configurações gerais, portas e nossa primeira rota. Segue o vídeo abaixo com a explicação:
 
