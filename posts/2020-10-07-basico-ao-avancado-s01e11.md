@@ -95,7 +95,7 @@ CONNECTION_MONGO = mongodb+srv://oladev:abc123@cluster0.j72az.mongodb.net/oladev
 
 E ai pra correr pro abraço é só substituir no mongoose.connect() por process.env.CONNECTION_MONGO que irá funcionar igualzinho a antes, porém, de uma forma mais segura: 
 
-```
+```javascript
 mongoose.connect(process.env.CONNECTION_MONGO, {
   useCreateIndex: true,
   useNewUrlParser: true,
