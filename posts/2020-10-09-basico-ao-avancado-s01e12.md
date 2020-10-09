@@ -42,7 +42,7 @@ import routes from "./src/routes.js";
 
 Podemos também copiar nossa única rota que temos no server.js e recorta-la para o arquivo routes. E no lugar onde recortamos a nossa rota, precisamos chamar esse arquivo routes que será responsável por cuidar das rotas, ficando assim: 
 
-```
+```javascript
 //api routes
 app.use(routes);
 ```
