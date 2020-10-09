@@ -12,11 +12,15 @@ background: "#8A1919"
 
 Estamos bem perto de finalizar nossa API! Hoje iremos, criar um arquivo de rotas e criar um Schema.
 
-\> Schema é uma forma de estruturar um documento que irá apontar para uma coleção nosso banco de dados - o Mongo.DB.
+> Schema é uma forma de estruturar um documento que irá apontar para uma coleção nosso banco de dados - o Mongo.DB.
 
-O Schema tem uma forma de objeto e irá simplificar muito a nossa vida! Segue o video abaixo: 
+O Schema tem uma forma de objeto e irá simplificar muito a nossa vida! Segue o vídeo abaixo: 
 
 <iframe title="video da série básico avançado, episódio doze" width="933" height="525" src="https://www.youtube.com/embed/AZyEcOvA3Gw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## O insomnia...
+
+Vamos aproveitar para baixar logo essa ferramenta. Iremos precisar dela no próximo post, então já deixa baixando. Basta acessar [Insomnia](https://insomnia.rest/download/) e clicar em Insomnia Core for Windows - caso não usem Windows, deve ter o nome do OS de vocês no lugar de Windows. Dai é só dar next, next..., install. É bem tranquilo a instalação.
 
 ## Routes...
 
@@ -38,7 +42,7 @@ import routes from "./src/routes.js";
 
 Podemos também copiar nossa única rota que temos no server.js e recorta-la para o arquivo routes. E no lugar onde recortamos a nossa rota, precisamos chamar esse arquivo routes que será responsável por cuidar das rotas, ficando assim: 
 
-```
+```javascript
 //api routes
 app.use(routes);
 ```
