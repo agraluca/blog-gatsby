@@ -14,11 +14,7 @@ Hoje iremos fechar nossa aula da nossa API REST! Wuhul! Iremos aprender sobre o 
 
 <iframe title="video da série básico avançado, episódio treze" width="933" height="525" src="https://www.youtube.com/embed/ZKANHgiTNLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Não podemos esquecer de importar o mongoose, visto que iremos utilizar ele no nosso arquivo routes.js
 
-```javascript
-import mongoose from "mongoose"
-```
 
 ## Nossa rota de post...
 
@@ -28,6 +24,12 @@ Com ele conseguimos submeter algum tipo de recurso para o servidor. Dessa forma 
 * Localização dessa nova rota
 * O parâmetro body
 * .create do mongoose
+
+> Não podemos esquecer de importar o mongoose, visto que iremos utilizar ele no nosso arquivo routes.js
+
+```javascript
+import mongoose from "mongoose"
+```
 
 ### Juntando...
 
