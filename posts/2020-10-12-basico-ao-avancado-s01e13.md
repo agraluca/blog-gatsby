@@ -14,6 +14,8 @@ Hoje iremos fechar nossa aula da nossa API REST! Wuhul! Iremos aprender sobre o 
 
 <iframe title="video da série básico avançado, episódio treze" width="933" height="525" src="https://www.youtube.com/embed/ZKANHgiTNLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ## Nossa rota de post...
 
 Hoje utilizamos essa método super importante: post
@@ -22,6 +24,12 @@ Com ele conseguimos submeter algum tipo de recurso para o servidor. Dessa forma 
 * Localização dessa nova rota
 * O parâmetro body
 * .create do mongoose
+
+> Não podemos esquecer de importar o mongoose, visto que iremos utilizar ele no nosso arquivo routes.js
+
+```javascript
+import mongoose from "mongoose"
+```
 
 ### Juntando...
 
@@ -57,7 +65,6 @@ Para aproveitar o gancho, temos três tipos de parâmetros:
 
 Não irei entrar em detalhes, mas deixarei de referência um link da Rocketseat que fala muito bem sobre o assunto:
 
-
 Referência: [Rocketseat, tipos de parâmetros nas requisições REST ](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
 Então nosso código ficará muito parecido com o anterior, porém sem o parâmetro req.body e a propriedade do mongoose será diferente, o  find(), que receberá somente nosso (req,res). Fincando assim:
@@ -75,8 +82,6 @@ routes.get("/view", (req, res) => {
 ```
 
 Como podem ver, iremos simplesmente criar uma rota get na rota "/view" com uma arrow function que receberá uma requisição e uma resposta. Dentro dela procuraremos dentro do nosso model, caso haja erro receberemos como resposta um erro, caso contrário receberemos como resposta os dados.
-
-
 
 ## Usando o insomnia...
 
@@ -100,6 +105,7 @@ Dentro do insomnia iremos criar nossa requisição de post. Para isso vamos segu
 	"imageUrl": "https://images.unsplash.com/photo-1602205958591-1a536abe895c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 }
 ```
+
 6- Clicar em criar
 
 Depois desse passo a passo iremos receber como resposta exatamente o que acabamos de enviar, na tela de "Preview" logo ao lado.
