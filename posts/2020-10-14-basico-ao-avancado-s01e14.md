@@ -20,15 +20,11 @@ Nossa rede social se chamará ZapTalk, nome nada criativo... eu sei. Mas o objet
 
 Irei deixar uma lista de sites famosos que utilizam React: 
 
-- Netflix
-
-- Instagram
-
-- Facebook
-
-- Tesla
-
-- Airbnb
+* Netflix
+* Instagram
+* Facebook
+* Tesla
+* Airbnb
 
 Entre vários outros. Podemos notar que é uma tecnologia que tem um futuro incrível pela frente - na verdade já tem!
 
@@ -64,13 +60,12 @@ code .
 
 Assim que o VS Code abrir iremos fazer algumas limpezas, visto que não precisaremos de todos os  arquivos que o CRA cria. A lista de arquivos que iremos excluir é a seguinte:
 
-- Dentro da pasta "public" iremos apagar todos os arquivos, menos o "index.html".
-
-- Dentro da pasta "src" iremos apagar todos os arquivos, menos o "App.js" e o "index.js".
+* Dentro da pasta "public" iremos apagar todos os arquivos, menos o "index.html".
+* Dentro da pasta "src" iremos apagar todos os arquivos, menos o "App.js" e o "index.js".
 
 Ficando assim:
 
-![Imagem mostrando os arquivos que ficaram - como descrito logo acima.](../assets/img/clean_workspace.png)
+![Imagem mostrando os arquivos que ficaram - como descrito logo acima.](../assets/img/clean_workspace_zoomed.png)
 
 Agora precisamos retirar as importações que estavam sendo feitas anteriormente, porém, não existentes, visto que apagamos diversos arquivos. Vamos começar pelo index.html:
 
@@ -89,7 +84,6 @@ Agora precisamos retirar as importações que estavam sendo feitas anteriormente
     <div id="root"></div>
   </body>
 </html>
-
 ```
 
 Agora vamos limpar o index.js:
@@ -106,7 +100,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-
 ```
 
 Por fim precisamos limpar o App.js:
@@ -123,14 +116,11 @@ function App() {
 }
 
 export default App;
-
 ```
 
 Com tudo isso em ordem, podemos dar um "npm start" e ver como nossa página está. Ela irá abrir no localhost:3000
 
 Se quando ela abrir estiver escrito "Funcionou!!", então tudo deu certo! 
-
-
 
 ## Finalizando...
 
