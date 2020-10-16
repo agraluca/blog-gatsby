@@ -8,7 +8,7 @@ background: "#8A1919"
 ---
 # Olá dev!
 
-![capa do curso básico ao avançado, episódio treze: React.JS parte um](../assets/img/react_pt1.jpg)
+![capa do curso básico ao avançado, episódio catorze: React.JS parte um](../assets/img/react_pt1.jpg)
 
 Tudo bem com vocês? Hoje finalmente entraremos na parte de React.JS. Iremos aprender a fazer uma parte muito importante de uma rede social: as postagens! 
 
