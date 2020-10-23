@@ -10,7 +10,9 @@ background: "#8A1919"
 
 ![capa do curso básico ao avançado, episódio dezesseis: React.JS parte três](../assets/img/react_pt3-1-.jpg)
 
-Tudo bem com vocês? Pois bem, hoje retornaremos a nossa série. Acabei viajando pra fazenda essa semana e não consegui postar lá, sorry =( . Mas hoje daremos continuidade a nossa rede social ZapTalk!! Hoje criaremos o componente dos posts, deixaremos ele no jeito para depois conectarmos nossa API, fazendo assim um recebimento dinâmico das informações. Segue video abaixo:
+Tudo bem com vocês? Pois bem, hoje retornaremos a nossa série. Acabei viajando pra fazenda essa semana e não consegui postar lá, sorry =( . Mas hoje daremos continuidade a nossa rede social ZapTalk!! Hoje criaremos o componente dos posts, deixaremos ele no jeito para depois conectarmos nossa API, fazendo assim um recebimento dinâmico das informações. Segue vídeo abaixo:
+
+<iframe title="vídeo da série básico avançado, episódio dezesseis" width="933" height="525" src="https://www.youtube.com/embed/-QeM3Dg8Q98" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Os posts...
 
@@ -118,7 +120,6 @@ function Header() {
 }
 
 export default Header;
-
 ```
 
 E não esquecendo de popular o styles.css com:
@@ -268,7 +269,6 @@ main img {
     display: none;
   }
 }
-
 ```
 
 \## Finalizando...
