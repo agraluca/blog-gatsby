@@ -271,7 +271,7 @@ main img {
 }
 ```
 
-\## Finalizando...
+## Finalizando...
 
 Então teremos o nosso componente de posts prontinho e funcionando.
 
