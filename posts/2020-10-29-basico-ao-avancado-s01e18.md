@@ -16,7 +16,7 @@ Tudo bem com vocês? Hoje iremos conectar a nossa API, que está no ar, ao nosso
 
 
 
-\## Começando...
+## Começando...
 
  Para fazer isso precisamos começar instalando o axios. 
 
@@ -38,11 +38,11 @@ Em seguida iremos fazer a conexão á nossa API. Para isso precisamos criar uma 
 
 Dentro do arquivo api.js precisamos:
 
-\- Importar o axios
+- Importar o axios
 
-\- Criar uma constante que irá receber a criação da conexão da nossa API 
+- Criar uma constante que irá receber a criação da conexão da nossa API 
 
-\- Exportar nossa constante
+- Exportar nossa constante
 
 Para fazer isso basta escrever o seguinte:
 
@@ -57,15 +57,16 @@ export default api;
 
 ```
 
-\> Notem que a escrita de "baseURL" deve ser feita exatamente desse jeito
+> Notem que a escrita de "baseURL" deve ser feita exatamente desse jeito
 
-\## Nossos primeiros hooks...
+
+## Nossos primeiros hooks...
 
 Bom, iremos ter contato com os hooks. Os hooks são relativamente novos dentro do React, porém são extremamente poderosos! Iremos utilizar dois deles:
 
-\- useEffect()
+- useEffect()
 
-\- useState
+- useState
 
 Vamos começar pelo useEffect(). Ele é bem similar ao componentDidMount() e componentDidUpdate anteriormente muito utilizados. A função dele é executar uma função assim que seu componente for renderizado e caso haja necessidade, atualiza ele de acordo com alguma dependência caso ela exista. A escrita dele é a seguinte: 
 
@@ -76,7 +77,7 @@ useEffect(()=>{
 },[])
 ```
 
-\> Lembrando que para usar os hooks precisamos importa-los dentro do react
+> Lembrando que para usar os hooks precisamos importa-los dentro do react
 
 Nesse caso vamos nos aproveitar dele para fazermos um get dentro da nossa api para conseguirmos os nossos posts. Para isso vamos dentro de Posts e vamos importar o nosso useEffect e escrever o seguinte:
 
@@ -102,7 +103,7 @@ O que estamos fazendo em cima é bem simples. Estamos criando uma função assí
 
 Fazendo isso se dermos um console.log() com essa constate de resposta notaremos que no console do navegador receberemos um objeto cheio de informações, porém só precisaremos da propriedade "data", por isso no código acima especificamos "res.data". Fazendo isso notaremos que estamos recebendo somente os posts que está no nosso banco de dados.
 
-\## E agora...
+## E agora...
 
 Beleza, Luca, mas e agora? Temos tudo que precisamos, mas não podemos utilizar.
 
@@ -154,10 +155,10 @@ Fazendo isso, conseguiremos fazer um loop com o .map() para colar essas informa�
 
 Referências:
 
-\- [Axios](https://github.com/axios/axios): conteúdo em inglês
+- [Axios](https://github.com/axios/axios): conteúdo em inglês
 
-\- [useState()](https://pt-br.reactjs.org/docs/hooks-reference.html#basic-hooks)
+- [useState()](https://pt-br.reactjs.org/docs/hooks-reference.html#basic-hooks)
 
-\- [useEffect()](https://pt-br.reactjs.org/docs/hooks-reference.html#useeffect)
+- [useEffect()](https://pt-br.reactjs.org/docs/hooks-reference.html#useeffect)
 
 Espero que tenham gostado, forte abraço!
