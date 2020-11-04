@@ -85,7 +85,7 @@ import { FiAlignJustify } from "react-icons/fi";
 import api from "../../services/api";
 
 function Posts() {
-  const [posts, getPosts] = useState([]);
+  const [posts, setPosts] = useState([]);
   useEffect(() => {
     async function getApi() {
       const res = await api.get("/view");
@@ -118,9 +118,9 @@ posts.map(post => {
 
 Com isso conseguimos acessar o nome do usuário, a url da imagem, o título e o id da foto normalmente. Como ja aprendemos na aula de objetos, bastando escrever post.NomeDaPropriedade.
 
-\> Vale lembrar que para inserir essas informações dentro do nosso primeiro return, precisamos das chaves "{}", visto que isso é um código de JS.
+> Vale lembrar que para inserir essas informações dentro do nosso primeiro return, precisamos das chaves "{}", visto que isso é um código de JS.
 
-\> Importante ressaltar que iremos utilizar os react fragments logo após o primeiro return, visto que precisamos de uma tag pai englobando as outras tags
+> Importante ressaltar que iremos utilizar os react fragments logo após o primeiro return, visto que precisamos de uma tag pai englobando as outras tags
 
 Por fim ficaremos com:
 
@@ -133,12 +133,12 @@ import { FiAlignJustify } from "react-icons/fi";
 import api from "../../services/api";
 
 function Posts() {
-  const [posts, getPosts] = useState([]);
+  const [posts, setPosts] = useState([]);
   useEffect(() => {
     async function getApi() {
       const res = await api.get("/view");
       console.log(res.data);
-      getPosts(res.data);
+      setPosts(res.data);
     }
     getApi();
   }, []);
@@ -208,17 +208,17 @@ Prontinho, agora só precisamos trocar as informações hard coded pelas informa
 
 Na nossa api precisamos de algumas infos:
 
-\- O id do post: post._id 
+- O id do post: post._id 
 
-\- O nome do usuário: post.user
+- O nome do usuário: post.user
 
-\- A url da imagem do post: post.imageUrl
+- A url da imagem do post: post.imageUrl
 
-\- O título do post: post.title
+- O título do post: post.title
 
 Dai agora é so substituir esse valores nos respectivos lugares
 
-\> Lembrar de usar {} para inserir esses valores:
+> Lembrar de usar {} para inserir esses valores:
 
 ```javascript
 import React, { useEffect, useState } from "react";
@@ -229,12 +229,12 @@ import { FiAlignJustify } from "react-icons/fi";
 import api from "../../services/api";
 
 function Posts() {
-  const [posts, getPosts] = useState([]);
+  const [posts, setPosts] = useState([]);
   useEffect(() => {
     async function getApi() {
       const res = await api.get("/view");
       console.log(res.data);
-      getPosts(res.data);
+      setPosts(res.data);
     }
     getApi();
   }, []);
@@ -298,7 +298,30 @@ function Posts() {
 }
 
 export default Posts;
-
 ```
 
-Notem que eu adcionei uma propriedade chamada key logo após fazer o map. Fazemos isso pois o map "obriga" que a pessoa diferencie ele com um valor próprio. Para fazermos isso basta adcionar a key com o valor do id dentro
+Notem que eu adicionei uma propriedade chamada key logo após fazer o map. Fazemos isso pois o map "obriga" que a pessoa diferencie ele com um valor próprio. Para fazermos isso basta adicionar a key com o valor do id dentro do elemento consecutivo ao map, nesse caso a section. Visto que o id é um valor único, isso irá resolver nosso problema.
+
+## Ordem dos posts...
+
+Para finalizar vamos colocar nosso post em ordem decrescente, do mais novo para o mais velho. Para fazer isso é bem simples, vamos usar o .reverse() que já vem de fábrica do JS. Vamos ir dentro do nosso useEffect, onde estamos chamando setPosts() e vamos acrescentar o .reverse()
+
+```javascript
+useEffect(() => {
+    async function getApi() {
+      const res = await api.get("/view");
+      console.log(res.data);
+      setPosts(res.data.reverse()); //Aqui!
+    }
+    getApi();
+  }, []);
+//...
+```
+
+Pronto, agora tudo vai funcionar do jeito esperado!
+
+## Espero...
+
+Bom por hoje é isso pessoal, espero que tenham gostado! Finalizamos a parte dos posts! Agora precisamos criar ele no nosso site e teremos finalizado nossa série! 
+
+Forte abraço!
