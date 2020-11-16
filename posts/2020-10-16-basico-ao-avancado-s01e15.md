@@ -83,13 +83,13 @@ Não vamos esquecer de importar nosso CSS
 
 E dentro dela iremos colar nosso HTML que na verdade se chama JSX
 
-\## JSX...
+## JSX...
 
 O JSX tem uma sintaxe quase igual ao HTML, com pequenas diferenças. No geral as tags são todas iguais, o que irá mudar são seu atributos. O nosso famoso class do HTML no JSX se chama className. 
 
 Ao longo da série iremos ver algumas mudanças, mas não é nada para se preocupar. Com isso iremos inserir nosso JSX que já deixei separado para vocês
 
-\> Antes vamos instalar o [React Icons](https://react-icons.github.io/), uma biblioteca com vários ícones: 
+> Antes vamos instalar o [React Icons](https://react-icons.github.io/), uma biblioteca com vários ícones: 
 
 ```javascript
 npm install react-icons --save
@@ -282,7 +282,7 @@ export default App;
 
 Com isso teremos o nosso Header já estilizado, funcionando com o nosso JSX, construído com componentes e funções.
 
-\## No próximo post...
+## No próximo post...
 
 Iremos ver o componente dos posts! Espero que tenham gostado e aprendido bastante. Revisem o código quantas vezes for necessário e se tiverem dúvidas, so mandar! 
 
