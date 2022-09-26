@@ -5,7 +5,7 @@ import links from "./content"
 
 import * as S from "./styled"
 
-function SocialLinks(props) {
+function SocialLinks() {
   return (
     <S.SocialLinksWrapper>
       <S.SocialLinksList>

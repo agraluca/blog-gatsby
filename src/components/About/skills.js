@@ -1,0 +1,16 @@
+export const skills = [
+  "React.JS",
+  "NextJS",
+  "Gatsby",
+  "ReduxJS",
+  "Recoil",
+  "Styled components",
+  "Material UI",
+  "Apollo",
+  "Node.JS",
+  "Unit Test",
+  "Strapi",
+  "Mongo DB",
+  "PostgreSQL",
+  "Figma",
+]

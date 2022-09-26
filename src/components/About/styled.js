@@ -95,6 +95,8 @@ export const AboutParagraph = styled.p`
   `}
 `
 export const AboutList = styled.ul`
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   list-style: disc;
   padding-left: 3.5rem;
   margin: 0 auto 1.6rem;

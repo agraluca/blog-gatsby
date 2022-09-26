@@ -2,13 +2,14 @@ import React from "react"
 import * as S from "./styled"
 import getThemeColor from "../../utils/getThemeColor"
 
-import links from "./content"
+import { useInternacionalization } from "../../hooks/useInternacionalization"
 
 function MenuLinks() {
+  const { translatedLinks } = useInternacionalization()
   return (
     <S.MenuLinksWrapper>
       <S.MenuLinksList>
-        {links.map((link, i) => {
+        {translatedLinks.map((link, i) => {
           return (
             <S.MenuLinksItem key={i}>
               <S.MenuLinksLink

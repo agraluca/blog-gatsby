@@ -1,22 +1,26 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import * as S from "./styled"
-import getThemeColor from "../../utils/getThemeColor"
 
 import Avatar from "../Avatar"
 
+import { useStaticQuery, graphql } from "gatsby"
+
+import getThemeColor from "../../utils/getThemeColor"
+
+import { useInternacionalization } from "../../hooks/useInternacionalization"
+
+import * as S from "./styled"
+
 const Profile = () => {
+  const { translatedTexts } = useInternacionalization()
   const {
     site: {
-      siteMetadata: { title, position, description },
+      siteMetadata: { title, position },
     },
   } = useStaticQuery(graphql`
     query MySiteMetadata {
       site {
         siteMetadata {
           title
-          description
-          author
           position
         }
       }
@@ -38,7 +42,9 @@ const Profile = () => {
           <S.ProfilePosition>{position}</S.ProfilePosition>
         </S.ProfileAuthor>
       </S.ProfileLink>
-      <S.ProfileDescription>{description}</S.ProfileDescription>
+      <S.ProfileDescription>
+        {translatedTexts.profile.description}
+      </S.ProfileDescription>
     </S.ProfileWrapper>
   )
 }

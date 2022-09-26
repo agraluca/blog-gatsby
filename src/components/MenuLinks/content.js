@@ -1,4 +1,4 @@
-const links = [
+export const portugueseLinks = [
   {
     label: "Home",
     url: "/",
@@ -9,5 +9,14 @@ const links = [
     url: "/about",
   },
 ]
+export const englishLinks = [
+  {
+    label: "Home",
+    url: "/",
+  },
 
-export default links
+  {
+    label: "About",
+    url: "/about",
+  },
+]
