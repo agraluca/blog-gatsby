@@ -1,6 +1,7 @@
 import React, { createContext, useContext, useState } from "react"
 import { englishTexts, portugueseTexts } from "../utils/textLanguages"
 import { portugueseLinks, englishLinks } from "../components/MenuLinks/content"
+import { isBrowser } from "../utils/isBrowser"
 
 export const internacionalizationContextDefaultValues = {
   language: "pt-BR",
@@ -17,7 +18,8 @@ export default function InternacionalizationProvider({ children }) {
   const englishLanguage = "en-US"
 
   const initialStateLanguage =
-    window.localStorage.getItem("language") ?? portugueseLanguage
+    (isBrowser() && window.localStorage.getItem("language")) ??
+    portugueseLanguage
 
   const [language, setLanguage] = useState(initialStateLanguage)
   const toggleLanguage = languageString => {
